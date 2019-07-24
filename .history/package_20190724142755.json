@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "apn": "^2.2.0",
-    "obyte-relay": "git+https://github.com/madeshv5543/byte-relay.git",
+    "obyte-relay": "git+https://github.com/byteball/obyte-relay.git",
     "request": "^2.81.0"
   }
 }
